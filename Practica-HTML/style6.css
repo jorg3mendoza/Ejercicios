@@ -1,0 +1,27 @@
+body{
+    background-image: url(./Fondo.webp);
+    background-size: auto auto;
+}
+img {
+    border: 10px blue double;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic
+}
+h2{
+    text-align: center;
+}
+
+a {
+    font-size: 25px;
+    color: blue;
+    font-weight: bold;
+}
+
+#album {
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}

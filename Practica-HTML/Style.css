@@ -1,0 +1,20 @@
+body{
+    background-image: url(./Fondo.webp);
+    background-size: auto auto;
+}
+
+h1#title {
+    font-size: 50px;
+    text-align: center;
+    padding: 4px;
+    border: 10px, yellowgreen dashed;
+    margin: 10px;
+}
+
+h6{
+    font-size: 20px;
+    text-align: right;
+    border: 10px, blue double;
+    padding: 4px;
+
+}

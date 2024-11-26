@@ -1,0 +1,43 @@
+body{
+    background-image: url(./Fondo.webp);
+    background-size: auto auto;
+}
+
+b, p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    border: 10px, blue double;
+    padding: 4px;
+    
+
+}
+
+a{
+    font-weight: bold;
+    color: #e2470f;
+    font-size: 20px;
+}
+
+div#Google {
+    background-color: #B7E0FF;
+}
+
+div#Youtube {
+    background-color: #FFF5CD;
+}
+
+div#Facebook {
+    background-color: #FFCFB3;
+}
+
+div#Amazon{
+    background-color: #CDFADB;
+}
+
+div#Netflix {
+    background-color: #77CDFF;
+}

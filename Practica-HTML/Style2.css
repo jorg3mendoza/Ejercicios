@@ -1,0 +1,18 @@
+body{
+    background-image: url(./Fondo.webp);
+    background-size: auto auto;
+}
+
+p#parrafo {
+    color: #0db18d;
+    /* background-image: url(./Fondo2.avif); */
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    border: 10px, blue double;
+    padding: 4px;
+    
+
+}
